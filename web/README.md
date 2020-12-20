@@ -1,1 +1,1 @@
-TestPlate-web
+sanityBolierPlate-web

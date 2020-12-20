@@ -1,1 +1,1 @@
-TestPlate-studio
+sanityBolierPlate-studio
