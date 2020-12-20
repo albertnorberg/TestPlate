@@ -69,7 +69,7 @@ export default function SwipeableTemporaryDrawer(props) {
             <HomeIcon />
           </ListItemIcon>
           <Link className={classes.link} to="/">
-            Home
+            Start
           </Link>
         </ListItem>
 
